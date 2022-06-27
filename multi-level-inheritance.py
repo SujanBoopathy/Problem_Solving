@@ -10,7 +10,7 @@ class A:
 class B(A):
     pass
 
-class C(A):
+class C(B):
     pass
 
 o1=B('sujan',11)
